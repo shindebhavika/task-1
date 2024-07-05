@@ -1,0 +1,30 @@
+[
+  {
+    "department": "agriculture & fishing",
+    "sub_departments": [
+      "support",
+      "customer_success",
+      "farming",
+      "aquaculture"
+    ]
+  },
+  {
+    "department": "business services",
+    "sub_departments": [
+      "graphic_design",
+      "product_design",
+      "web_design",
+      "consulting",
+      "marketing"
+    ]
+  },
+  {
+    "department": "manufacturing",
+    "sub_departments": [
+      "production",
+      "quality_control",
+      "logistics",
+      "maintenance"
+    ]
+  }
+  ]
